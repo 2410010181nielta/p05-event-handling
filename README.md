@@ -68,4 +68,4 @@ Dialog konfirmasi keluar:
 
 ## 6. Deklarasi Penggunaan AI
 
-(Isi sesuai kenyataan.) Saya menggunakan Claude (Anthropic) untuk membantu menyusun kerangka proyek, kode form, dan draf README. Kode sudah saya jalankan dan pelajari sendiri.
+saya menggunakan ai untuk membantu saya mengerjakan atau mencari dimana letak yang saya tidak tahu
